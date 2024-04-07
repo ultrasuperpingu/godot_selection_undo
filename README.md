@@ -1,5 +1,5 @@
 # godot_selection_undo
-Add selection to the undo stack in Godot
+Add selection to the undo stack in Godot Editor
 
 It's just a quick and dirty implementation. For now, it works pretty well for me but it's probably not production ready.
 
